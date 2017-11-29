@@ -1,0 +1,12 @@
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\bin\Debug\DataStudent.exe.config
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\bin\Debug\DataStudent.exe
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\bin\Debug\DataStudent.pdb
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\bin\Debug\DataStudent.xml
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\obj\Debug\DataStudent.Form.resources
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\obj\Debug\DataStudent.Resources.resources
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\obj\Debug\DataStudent.vbproj.GenerateResource.Cache
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\obj\Debug\DataStudent.vbproj.CoreCompileInputs.cache
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\obj\Debug\DataStudent.exe
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\obj\Debug\DataStudent.xml
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\obj\Debug\DataStudent.pdb
+C:\Users\elang\Documents\Visual Studio 2017\Project\DataStudent\DataStudent\obj\Debug\DataStudent.vbprojResolveAssemblyReference.cache
